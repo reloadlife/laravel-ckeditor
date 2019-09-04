@@ -1,14 +1,6 @@
 {
-    "name": "jeroennoten/laravel-cke",
-    "description": "Laravel CKEditor",
-    "keywords": ["laravel", "ckeditor", "wysiwyg"],
+    "name": "reloadlife/laravel-cke",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Jeroen Noten",
-            "email": "jeroennoten@me.com"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "JeroenNoten\\LaravelCkEditor\\": "src/"
